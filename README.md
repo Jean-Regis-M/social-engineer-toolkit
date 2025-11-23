@@ -1,3 +1,4 @@
+
 # The Social-Engineer Toolkit (SET)
 * Copyright :copyright: 2020
 * Written by: David Kennedy (ReL1K) @HackingDave 
@@ -27,6 +28,7 @@ python3 setup.py
 ## Install SET
 =======
 #### Mac OS X
+
 You will need to use a virtual environment for the Python install if you are using an M2 Macbook with the following instructions in your CLI within the social-engineer-toolkit directory. 
 ```bash
     # to install dependencies, run the following:
@@ -42,6 +44,7 @@ You will need to use a virtual environment for the Python install if you are usi
 
 ## Installation
 #### Windows 10 WSL/WSL2 Kali Linux
+
 ```bash
 sudo apt install set -y
 ```
@@ -49,6 +52,7 @@ Kali Linux on Windows 10 is a minimal installation so it doesn't have any tools 
 You can easily install Social Engineer Toolkit on WSL/WSL2 without needing pip using the above command.
 
 #### Linux
+
 ```bash
 git clone https://github.com/trustedsec/social-engineer-toolkit/ setoolkit/
 cd setoolkit
@@ -58,6 +62,7 @@ python setup.py
 <br/>
 
 ## SET Tutorial
+
 For a full document on how to use SET, [visit the SET user manual](https://github.com/trustedsec/social-engineer-toolkit/raw/master/readme/User_Manual.pdf).
 
 <br/>
